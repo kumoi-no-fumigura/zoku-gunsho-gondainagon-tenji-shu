@@ -1104,6 +1104,10 @@
    "kotobagaki": ""
   }
  ],
+ "translation": {
+  "count": 7,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-gondainagon-tenji-shu",
   "work": "権大納言典侍集",
@@ -1116,7 +1120,7 @@
   "blocks": 7,
   "chars": 2033,
   "poems": 66,
-  "yaku": 0,
+  "yaku": 7,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T03:00:16+09:00"
